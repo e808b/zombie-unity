@@ -1,4 +1,4 @@
-<!-- https://github.com/leedonglee/ZombieAttack -->
+<!-- https://github.com/a11z11/zombie-unity -->
 
 ## About
 
