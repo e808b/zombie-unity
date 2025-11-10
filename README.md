@@ -1,4 +1,4 @@
-<!-- https://github.com/e808b/zombie-unity -->
+<!-- https://github.com/e808b/unity-zombie-attack -->
 
 ## About
 
